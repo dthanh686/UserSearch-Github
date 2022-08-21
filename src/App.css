@@ -1,0 +1,55 @@
+.App {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  max-width: 1200px;
+}
+
+body {
+  margin-top: 2rem;
+  font-family: "Lato", sans-serif;
+  font-size: 1.1rem;
+  background: #f0f0f0;
+}
+
+.user-avatar {
+  position: relative;
+  margin: 0 auto;
+  width: 12rem;
+  height: 12rem;
+  border-radius: 50%;
+  background: #00aaaa;
+  padding: 5px;
+  max-width: 100%;
+}
+
+.user-login:hover {
+  color: #FF6A6A;
+}
+
+.github-icon img {
+  height: 150px;
+  width: auto;
+  margin: 1rem 0;
+}
+
+input:focus {
+  outline: none
+} 
+
+.input-users {
+  height: 3rem;
+  width: 100%;
+  padding: 0 1rem;
+  border-radius: 0.4rem;
+  font-size: 1.2rem;
+}
+
+.search-body {
+    background-image: url('https://1.bp.blogspot.com/-hN0NCoAmEDY/X8z1OcRjXmI/AAAAAAAAlc0/hHqbHzqOPhIABiVomzpYacPeEufV816QQCNcBGAsYHQ/s0/hinh-nen-may-cuc-dep.jpg');
+    background-size: contain;
+    width: 100%;
+    background-repeat: no repeat;
+    background-position: center ;
+
+  }

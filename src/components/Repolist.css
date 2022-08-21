@@ -1,0 +1,42 @@
+.repo-container {
+    text-align: center;
+}
+
+.back-button {
+    text-decoration: none;
+    position: absolute;
+    padding: 0.2rem 1rem;
+    display: inline-block;
+    background-color: #B0E0E6;
+    top: 2%;
+    left: 2%;
+    border-radius: 8px;
+}
+
+.repo-language {
+    background-color: #00FA9A;
+    color: #E0FFFF;
+    font-weight: 500;
+    border-radius: 1rem;
+    padding: 4px 10px;
+    width: fit-content
+}
+
+.ant-modal-content {
+    box-shadow: none;
+    border: 2px solid;
+    /* color: #E0FFFF; */
+    border-radius: 8px
+  }
+
+img {
+    max-width: 100%;
+  }
+
+.ant-modal-footer {
+    display: none;
+  }
+
+.ant-modal-root {
+    background-color: red;
+  }
